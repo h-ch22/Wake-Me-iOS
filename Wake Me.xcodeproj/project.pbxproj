@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		F606FB772CD858F000BF008E /* Neumorphic in Frameworks */ = {isa = PBXBuildFile; productRef = F606FB762CD858F000BF008E /* Neumorphic */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		F606FB562CD856FC00BF008E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -52,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F606FB772CD858F000BF008E /* Neumorphic in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +117,7 @@
 			);
 			name = "Wake Me";
 			packageProductDependencies = (
+				F606FB762CD858F000BF008E /* Neumorphic */,
 			);
 			productName = "Wake Me";
 			productReference = F606FB442CD856FB00BF008E /* Wake Me.app */;
@@ -195,6 +201,9 @@
 			);
 			mainGroup = F606FB3B2CD856FB00BF008E;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				F606FB752CD858F000BF008E /* XCRemoteSwiftPackageReference "neumorphic" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = F606FB452CD856FB00BF008E /* Products */;
 			projectDirPath = "";
@@ -591,6 +600,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F606FB752CD858F000BF008E /* XCRemoteSwiftPackageReference "neumorphic" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/costachung/neumorphic";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F606FB762CD858F000BF008E /* Neumorphic */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F606FB752CD858F000BF008E /* XCRemoteSwiftPackageReference "neumorphic" */;
+			productName = Neumorphic;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = F606FB3C2CD856FB00BF008E /* Project object */;
 }
