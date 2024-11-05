@@ -6,16 +6,19 @@
 //
 
 import SwiftUI
+import Neumorphic
 
 struct MainView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        if UIDevice.current.userInterfaceIdiom == .phone {
+            AlarmsView_iPhone()
+        } else if UIDevice.current.userInterfaceIdiom == .pad {
+            NavigationSplitView(sidebar: {
+                AlarmsView_iPhone()
+            }, detail: {
+                EmptyView()
+            })
         }
-        .padding()
     }
 }
 

@@ -1,0 +1,219 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "ALARM TYPE" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알람 방식"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취소"
+          }
+        }
+      }
+    },
+    "CLEAR" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "초기화"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "완료"
+          }
+        }
+      }
+    },
+    "Label" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메모"
+          }
+        }
+      }
+    },
+    "LABEL" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메모"
+          }
+        }
+      }
+    },
+    "Math Question Count" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수학 문제 수"
+          }
+        }
+      }
+    },
+    "Math Question Level" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수학 문제 난이도"
+          }
+        }
+      }
+    },
+    "New Alarm" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알람 추가"
+          }
+        }
+      }
+    },
+    "Please select a type to select photo" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사진을 가져올 방식을 선택하십시오."
+          }
+        }
+      }
+    },
+    "Please select time to wake you up" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일어날 시간을 설정하십시오."
+          }
+        }
+      }
+    },
+    "REPEAT" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "반복"
+          }
+        }
+      }
+    },
+    "Select a photo" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사진 선택"
+          }
+        }
+      }
+    },
+    "Select alarm type" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알람 방식 선택"
+          }
+        }
+      }
+    },
+    "Select an alarm sound" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알람 소리 선택"
+          }
+        }
+      }
+    },
+    "Select Photo" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사진 선택"
+          }
+        }
+      }
+    },
+    "SELECT QUESTION COUNT\nCurrent Count: %.0f" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문제 수 선택\n현재 문제 수: %.0f"
+          }
+        }
+      }
+    },
+    "SELECT QUESTION LEVEL\nCurrent Level: %.0f" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문제 난이도 선택\n현재 난이도: %.0f"
+          }
+        }
+      }
+    },
+    "SOUND" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소리"
+          }
+        }
+      }
+    },
+    "Take a photo" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사진 촬영"
+          }
+        }
+      }
+    },
+    "There is no alarm yet." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추가된 알람이 없습니다."
+          }
+        }
+      }
+    },
+    "Wake Me!" : {
+      "shouldTranslate" : false
+    }
+  },
+  "version" : "1.0"
+}
